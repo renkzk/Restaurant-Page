@@ -8,5 +8,8 @@
     "build": "webpack"
   },
   "author": "ren",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "webpack-cli": "^4.9.1"
+  }
 }
