@@ -14,7 +14,7 @@
 
 body {
     margin: 0;
-    background-image: url(../dist/img/background.jpg);
+    background-image: url(../img/background.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -83,7 +83,7 @@ main {
 }
 
 .home img {
-    background-image: url(../dist/img/home.jpg);
+    background-image: url(../img/home.jpg);
     height: 350px;
     float: right;
     margin-left: 50px;
