@@ -159,7 +159,6 @@ main {
     flex-direction: column;
     align-items: center;
     transition: 100ms;
-    overflow-y: hidden;
 }
 
 .about-info {
